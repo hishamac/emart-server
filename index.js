@@ -24,7 +24,7 @@ app.use(
     origin: [
       "http://localhost:3000",
       "http://127.0.0.1:3000",
-      "https://redux-blog.mhac3414.repl.co",
+      "https://emart-client.vercel.app",
     ],
     credentials: true,
   })
